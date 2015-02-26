@@ -6,6 +6,7 @@ public class ModeloUno {
 	public static void main(String[] args) {
 		Scanner leer=new Scanner(System.in);
 		int hola=leer.nextInt();
+		int hola2;
 		int min=0;
 		int max=20;
 		if(hola>max||hola<min)
